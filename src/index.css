@@ -32,7 +32,6 @@ html{
   width: 1000px;
   margin: 0;
   background-color: hsl(181, 67%, 86%);
-  border: 1px solid  hsl(185, 16%, 29%)
 }
 
 h1 {
@@ -83,6 +82,7 @@ input {
   width: auto;
   padding: 1px;
   border-radius: 10px;
+  border: 1px solid hsl(186, 36%, 73%);
 }
 .picture-content:hover{
   border: 1px solid black;
@@ -102,5 +102,4 @@ input {
 
 .picture{
   text-align: center;
-  
 }
