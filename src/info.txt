@@ -1,0 +1,7 @@
+Tạo một Web đơn giản để xem gallery ảnh
+- Cho phép tìm kiếm ảnh theo title
+- Chọn category lấy ra tất cả các ảnh theo category
+Yêu cầu:
+- Tạo component cho các hình ảnh, thanh tìm kiếm, button category
+- Sử dụng useState để render component
+- Thêm style cho trang web: có thể sử dụng CSS thuần, CSS Module hoặc TailwindCSS
